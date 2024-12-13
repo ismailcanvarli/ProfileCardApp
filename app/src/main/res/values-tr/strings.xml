@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profil Kartı</string>
+    <string name="profile_card">Profil Kartı</string>
+    <string name="profile_picture">Profil fotoğrafı</string>
+    <string name="iron_man">Demir Adam</string>
+    <string name="name">İsim</string>
+    <string name="ability">Yetenek</string>
+    <string name="team">Takım</string>
+    <string name="power">Güç</string>
+    <string name="name_detail">Tony Stark</string>
+    <string name="ability_detail">Dahi, Milyarder, Yakışıklı</string>
+    <string name="team_detail">Avengers</string>
+    <string name="power_detail">99</string>
+</resources>

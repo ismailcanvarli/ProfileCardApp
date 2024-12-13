@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">ProfileCard</string>
+    <string name="app_name">Profile Card</string>
+    <string name="profile_card">Profile Card</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="iron_man">IRON MAN</string>
+    <string name="name">Name</string>
+    <string name="ability">Ability</string>
+    <string name="team">Team</string>
+    <string name="power">Power</string>
+    <string name="name_detail">Tony Stark</string>
+    <string name="ability_detail">Genius, Billionaire, Playboy</string>
+    <string name="team_detail">Avengers</string>
+    <string name="power_detail">99</string>
 </resources>
