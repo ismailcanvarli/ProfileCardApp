@@ -11,4 +11,6 @@
     <string name="ability_detail">Genius, Billionaire, Playboy</string>
     <string name="team_detail">Avengers</string>
     <string name="power_detail">99</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>

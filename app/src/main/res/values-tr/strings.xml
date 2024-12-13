@@ -9,7 +9,9 @@
     <string name="team">Takım</string>
     <string name="power">Güç</string>
     <string name="name_detail">Tony Stark</string>
-    <string name="ability_detail">Dahi, Milyarder, Yakışıklı</string>
+    <string name="ability_detail">Dahi, Milyarder, Çapkın</string>
     <string name="team_detail">Avengers</string>
     <string name="power_detail">99</string>
+    <string name="previous">Önceki</string>
+    <string name="next">Sonraki</string>
 </resources>

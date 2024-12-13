@@ -7,21 +7,16 @@ import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 
 private val DarkColorScheme = darkColorScheme(
-    primary = DarkFirstColor,
-    onPrimary = DarkFirstTextColor,
-    secondary = DarkSecondTextColor
+    primary = DarkFirstColor, onPrimary = DarkFirstTextColor, secondary = DarkSecondTextColor
 )
 
 private val LightColorScheme = lightColorScheme(
-    primary = FirstColor,
-    onPrimary = FirstTextColor,
-    secondary = SecondTextColor
+    primary = FirstColor, onPrimary = FirstTextColor, secondary = SecondTextColor
 )
 
 @Composable
 fun ProfileCardTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
-    content: @Composable () -> Unit
+    darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit
 ) {
     val colors = if (darkTheme) {
         DarkColorScheme
@@ -30,8 +25,6 @@ fun ProfileCardTheme(
     }
 
     MaterialTheme(
-        colorScheme = colors,
-        typography = Typography,
-        content = content
+        colorScheme = colors, typography = Typography, content = content
     )
 }
